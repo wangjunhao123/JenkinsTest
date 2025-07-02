@@ -1,0 +1,11 @@
+{
+    "android":{
+        "version":"2.0.0"
+    },
+    "ios":{
+        "version":"2.0.0"
+    },
+    "wechat": {
+        "version": "2.0.0"
+    }
+}

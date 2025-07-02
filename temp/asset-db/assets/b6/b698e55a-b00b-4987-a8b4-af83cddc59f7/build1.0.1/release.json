@@ -1,0 +1,83 @@
+[
+    1,
+    [
+        "aeGN7qxuBKPb9w7lUz+bqH@6c48a",
+        "a3zQCfCrBCDZJ4uf2rk5u8"
+    ],
+    [
+        "mainTexture",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_name",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            0,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            "grass",
+            [
+                {
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {},
+                    "rasterizerState": {}
+                }
+            ],
+            [
+                {
+                    "USE_TEXTURE": true
+                }
+            ],
+            [
+                [
+                    [
+                        {
+                            "alphaThreshold": 0
+                        },
+                        "mainTexture",
+                        6,
+                        0
+                    ]
+                ],
+                11
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0
+    ],
+    [
+        0,
+        1
+    ],
+    [
+        0,
+        1
+    ]
+]

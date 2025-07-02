@@ -1,0 +1,150 @@
+{
+  "__version__": "1.3.8",
+  "log": {},
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "buildPath": "project://build",
+    "outputName": "wechatgame",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "wechatgame",
+    "md5Cache": true,
+    "debug": true,
+    "bundleConfigs": [],
+    "name": "wx_02",
+    "mainBundleIsRemote": false
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "buildBundle": {
+        "id": "buildBundle",
+        "progress": 0,
+        "state": "waiting",
+        "message": "",
+        "detailMessage": "",
+        "options": {
+          "taskName": "wechatgame",
+          "packages": {}
+        },
+        "time": "",
+        "type": "bundle"
+      },
+      "1751381566378": {
+        "type": "build",
+        "id": "1751381566378",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2025-7-1 22:53:05 build success in 18 s!",
+        "detailMessage": "// ---- build task cocos-service：onAfterBuild ----\r",
+        "options": {
+          "name": "Jenkins_Test",
+          "server": "",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": true,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "overwriteProjectSettings": {
+            "macroConfig": {
+              "cleanupImageCache": "inherit-project-setting"
+            },
+            "includeModules": {
+              "physics": "inherit-project-setting",
+              "physics-2d": "inherit-project-setting",
+              "gfx-webgl2": "off"
+            }
+          },
+          "nativeCodeBundleMode": "wasm",
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb",
+          "outputName": "android",
+          "taskName": "android",
+          "scenes": [
+            {
+              "url": "db://assets/scene/main.scene",
+              "uuid": "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb"
+            }
+          ],
+          "wasmCompressionMode": false,
+          "packages": {},
+          "__version__": "1.3.8",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/android2025-7-1 22-52.log"
+        },
+        "time": "2025-7-1 22:52:46",
+        "dirty": false
+      },
+      "1751442256857": {
+        "type": "build",
+        "id": "1751442256857",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2025-7-2 15:44:26 build success in 9 s!",
+        "detailMessage": "// ---- build task cocos-service：onAfterCompressSettings ----\r",
+        "options": {
+          "name": "wx_02",
+          "server": "",
+          "platform": "wechatgame",
+          "buildPath": "project://build",
+          "debug": true,
+          "md5Cache": true,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "overwriteProjectSettings": {
+            "macroConfig": {
+              "cleanupImageCache": "on"
+            },
+            "includeModules": {
+              "physics": "inherit-project-setting",
+              "physics-2d": "inherit-project-setting",
+              "gfx-webgl2": "off"
+            }
+          },
+          "nativeCodeBundleMode": "wasm",
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb",
+          "outputName": "wechatgame",
+          "taskName": "wechatgame",
+          "scenes": [
+            {
+              "url": "db://assets/scene/main.scene",
+              "uuid": "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb"
+            }
+          ],
+          "wasmCompressionMode": false,
+          "packages": {},
+          "__version__": "1.3.8",
+          "logDest": "project://temp/builder/log/wechatgame2025-7-2 15-44.log"
+        },
+        "time": "2025-7-2 15:44:16",
+        "dirty": false
+      }
+    }
+  }
+}

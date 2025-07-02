@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "AppConfig",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "json": {
+    "BROWSER": {
+      "version": "2.0.0"
+    },
+    "ANDROID": {
+      "version": "2.0.0"
+    },
+    "IOS": {
+      "version": "2.0.0"
+    },
+    "WECHAT_GAME": {
+      "version": "2.0.0"
+    }
+  }
+}

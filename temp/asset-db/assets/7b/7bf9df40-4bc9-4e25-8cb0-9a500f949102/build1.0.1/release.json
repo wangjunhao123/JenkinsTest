@@ -1,0 +1,133 @@
+[
+    1,
+    [
+        "c5CD51rS5OqYsz3udImVsA@6c48a",
+        "a7YStUNeNCOKGpSntUY1g5"
+    ],
+    [
+        "mainTexture",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_name",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            0,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            "tree",
+            [
+                {
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {},
+                    "rasterizerState": {}
+                },
+                {
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {},
+                    "rasterizerState": {}
+                },
+                {
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {},
+                    "rasterizerState": {}
+                },
+                {
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {},
+                    "rasterizerState": {}
+                }
+            ],
+            [
+                {
+                    "USE_OUTLINE_PASS": true
+                },
+                {
+                    "USE_BASE_COLOR_MAP": true,
+                    "BASE_COLOR_MAP_AS_SHADE_MAP_1": true,
+                    "BASE_COLOR_MAP_AS_SHADE_MAP_2": true
+                },
+                {
+                    "USE_BASE_COLOR_MAP": true,
+                    "BASE_COLOR_MAP_AS_SHADE_MAP_1": true,
+                    "BASE_COLOR_MAP_AS_SHADE_MAP_2": true
+                },
+                {
+                    "USE_BASE_COLOR_MAP": true
+                }
+            ],
+            [
+                [
+                    {},
+                    [
+                        {},
+                        "specular",
+                        8,
+                        [
+                            4,
+                            16777215
+                        ],
+                        "mainTexture",
+                        6,
+                        0
+                    ],
+                    {},
+                    {}
+                ],
+                0,
+                11,
+                0,
+                0
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0
+    ],
+    [
+        0,
+        1
+    ],
+    [
+        0,
+        1
+    ]
+]
